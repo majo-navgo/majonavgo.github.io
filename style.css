@@ -157,6 +157,9 @@ box-shadow: 11px 13px 20px -7px rgba(120,120,120,0.37);
         background-image: url(./images/Valentines.gif);
     }
 
+    .image:hover{
+    background-image: none;
+
     nav{    
         justify-content: center;
     }
@@ -164,6 +167,10 @@ box-shadow: 11px 13px 20px -7px rgba(120,120,120,0.37);
     iframe{
       width: 70%;
     }
+
+    h1{
+    font-size: 30px;
+}
 
 }
 

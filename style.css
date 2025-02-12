@@ -154,11 +154,10 @@ box-shadow: 11px 13px 20px -7px rgba(120,120,120,0.37);
         width: 15em;
         height: 25em;
         border-radius: 2rem;
-        background-image: url(./images/Valentines.gif);
     }
 
     .image:hover{
-    background-image: none;
+    background-image: url(./images/Valentines.gif);
 
     nav{    
         justify-content: center;
@@ -169,7 +168,7 @@ box-shadow: 11px 13px 20px -7px rgba(120,120,120,0.37);
     }
 
     h1{
-    font-size: 30px;
+    font-size: 10px;
 }
 
 }
